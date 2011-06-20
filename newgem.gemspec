@@ -4,9 +4,9 @@ Gem::Specification.new do |s|
   s.name        = "newgem"
   s.version     = NewGem::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["Carl Lerche", "Yehuda Katz"]
-  s.email       = ["carlhuda@engineyard.com"]
-  s.homepage    = "http://github.com/carlhuda/newgem"
+  s.author     = "Nathaniel Barnes"
+  s.email       = ["nathaniel.r.barnes@gmail.com"]
+  s.homepage    = "http://github.com/natebarnes/newgem-template"
   s.summary     = "A new gem templates"
   s.description = "You're definitely going to want to replace a lot of this"
 
